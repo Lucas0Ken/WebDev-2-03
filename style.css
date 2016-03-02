@@ -1,0 +1,67 @@
+/*
+Esse é o arquivo CSS.
+Você pode colocar um código numa tag pelo nome da tag, pelo id dela, pela classe (de um grupo de tags).
+*/
+
+body{
+  /* TAG */
+  background: url('cadeira.jpg');
+  color: green;
+  padding: 0px;
+  margin-left: 0px;
+}
+ol{
+	list-style:decimal-leading-zero;
+}
+section{
+	background-color: cyan;
+	background: url('img.jpg');
+	color:red;
+	padding: 25px;
+}
+.rosa{
+	color: pink;
+}
+.grande{
+	text-decoration: underline;
+	font-size: xx-large;
+}
+
+header{
+	position: fixed;
+	display: block;
+	background-color: purple;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+.mc{
+	background: url('img.jpg');
+	background-size: 50px;
+	background-position: center;
+}
+.sao{
+	background: url('sao1.jpeg');
+	background-position: center;
+	background-size: 900px;
+	color: black;
+}
+.lista{
+	margin: 0px auto;
+}
+#id{
+ /* ID */
+}
+
+.class {
+ /* CLASS */
+}
+
+a{
+  /* a */
+}
+
+a:hover{
+ /* Estados */
+}
+
